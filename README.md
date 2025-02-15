@@ -1,5 +1,5 @@
 # FreeChatStatus在线客服状态与电话坐席状态同步
-LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,在线客服，大模型聊天机器人，在线客服转人工，电话坐席、网页坐席、微信公众号坐席等坐席状态同步，统一排队。
+LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,在线客服，大模型聊天机器人，在线客服转人工，电话坐席、网页坐席、微信公众号坐席等坐席状态同步，统一排队！
 Large-model chatbot with the capability to transfer online customer service to human agents, featuring synchronized agent statuses across phone agents, web agents, WeChat Official Account agents, and others, with unified queuing.
 
 ## 😄完整性：前端、后端、数据库，齐全
@@ -29,7 +29,7 @@ http://118.25.192.13:80
 ## 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
 
 愿景：
-我们的愿景是打造一个开放、灵活且强大的开源呼叫中心解决方案，赋能全球的企业和组织，无论规模大小，都能轻松构建并运营自己的客户服务体系。我们相信，通过共享源代码、促进技术创新与协作，能够打破传统呼叫中心的壁垒，让每一位开发者、企业主乃至终端用户都能从中受益。我们的目标不仅仅是提供一个工具，而是构建一个生态系统，让不同背景、不同需求的用户能够共同探索、定制并优化呼叫中心的功能与体验，最终推动整个客户服务行业的进步与发展。
+我们的愿景是打造一个开放、灵活且强大的开源呼叫中心解决方案，赋能全球的企业和组织，无论规模大小，都能轻松构建并运营自己的客户服务体系。我们相信，通过共享源代码、促进技术创新与协作，能够打破传统呼叫中心的壁垒，让每一位开发者、企业主乃至终端用户都能从中受益。我们的目标不仅仅是提供一个工具，而是构建一个生态系统，让不同背景、不同需求的用户能够共同探索、定制并优化呼叫中心的功能与体验，最终推动整个客户服务行业的进步与发展！
 
 基础功能：
 1.	多渠道接入：支持电话、短信、社交媒体、电子邮件、网页聊天等多种客户沟通渠道，实现客户需求的无缝对接与统一管理。
