@@ -1,7 +1,8 @@
-# AI Call Center，LLM Call Center
-AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCenter,ContactCenter,opensips,LLM,langchain,RAG搜索模块,TTS,ASR,NLP,Chabot,freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound,呼叫中心，大模型呼入机器人，大模型呼出机器人，呼叫中心系统，话务系统，客服系统，工单系统，智能外呼，呼叫，呼入，呼出，智能外呼系统，呼叫中心系统，人工智能，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，开源呼叫中心系统(😄付费后交付源码😄),Call center,call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，LLM大模型，LangChain，RAG检索模块，联络中心，客服中心!!!
+# FreeChatStatus 在线客服、电话客服状态同步，用于转人工服务模块，与电话客服统一排队
+call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，这些在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席，获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!!!
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
+注意：前端太老了，还是jQuery的，还在改版。
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 致力于成为：
@@ -21,7 +22,8 @@ http://118.25.192.13:8822/cc
 2，工单：(demo/123456)
 http://118.25.192.13:80
 ## 开发语言：Java Python为主
-## 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
+
+# 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
 
 愿景：
 我们的愿景是打造一个开放、灵活且强大的开源呼叫中心解决方案，赋能全球的企业和组织，无论规模大小，都能轻松构建并运营自己的客户服务体系。我们相信，通过共享源代码、促进技术创新与协作，能够打破传统呼叫中心的壁垒，让每一位开发者、企业主乃至终端用户都能从中受益。我们的目标不仅仅是提供一个工具，而是构建一个生态系统，让不同背景、不同需求的用户能够共同探索、定制并优化呼叫中心的功能与体验，最终推动整个客户服务行业的进步与发展！
