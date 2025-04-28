@@ -78,7 +78,7 @@ http://124.220.48.38:80
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
-## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
+## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
 下图是随机抽取的需求对接的群：
 
