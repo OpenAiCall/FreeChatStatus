@@ -1,5 +1,5 @@
 # FreeChatStatus 在线客服、电话客服状态同步，用于转人工服务模块，与电话客服统一排队
-call center、contact center、呼叫中心、联络中心中的在线客服后端模块：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席。获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!!!!
+call center、contact center、呼叫中心、联络中心中的在线客服后端模块：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席。获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!!!!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
